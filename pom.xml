@@ -35,7 +35,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.49</version> <!-- 请根据需要选择版本 -->
+			<scope>runtime</scope>
 		</dependency>
 	</dependencies>
 
